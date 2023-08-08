@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "angular-tradingview-widget": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

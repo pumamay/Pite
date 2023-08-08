@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ProyPITETest", "ProyPITETest\ProyPITETest.esproj", "{D5B67C50-7B22-4A87-B479-1702BB78FC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyPITETestAPI", "ProyPITETestAPI\ProyPITETestAPI.csproj", "{4EEDB431-AE7F-4F55-AA04-83786F2DD8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B67C50-7B22-4A87-B479-1702BB78FC24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4EEDB431-AE7F-4F55-AA04-83786F2DD8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEDB431-AE7F-4F55-AA04-83786F2DD8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEDB431-AE7F-4F55-AA04-83786F2DD8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEDB431-AE7F-4F55-AA04-83786F2DD8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {745C7F13-F9C9-4855-8CAD-7FC9E6EE9FAF}
+	EndGlobalSection
+EndGlobal
